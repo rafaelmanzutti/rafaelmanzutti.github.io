@@ -55,7 +55,7 @@ html {
 body {
   position: relative;
   font-family: 'Roboto', Helvetica, sans-serif;
-  color: #424242;
+  color: #05091A;
   margin: 0;
   height: 100%;
   width: 100%;
@@ -98,7 +98,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #212121;
+  color: #05091a;
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-weight: 700;
   line-height: 1.5em;
@@ -185,7 +185,7 @@ textarea.form-control, textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #2eca7f;
+  background: #3956CE;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -329,7 +329,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #2eca7f;
+  background-color: #3956CE;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -354,11 +354,11 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #3956CE;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #2eca7f;
+  border-bottom: 2px solid #3956CE;
 }
 
 /* Footer */
@@ -649,7 +649,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #2eca7f;
+  color: #3956CE;
 }
 
 .header.sticked .site-title {
@@ -724,7 +724,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -788,7 +788,7 @@ body > footer .copyrights {
 }
 
 .block-title h3 span {
-  color: #2eca7f;
+  color: #3956CE;
 }
 
 .custom-page-content .block {
@@ -809,7 +809,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
+  background-color: #3956CE;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -839,7 +839,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
@@ -982,7 +982,7 @@ body > footer .copyrights {
   margin-left: 20px;
   margin-bottom: 20px;
   background-color: #fff;
-  border-left: 2px solid #2eca7f;
+  border-left: 2px solid #3956CE;
   box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
 }
 
@@ -1004,7 +1004,7 @@ body > footer .copyrights {
   height: 12px;
   top: 20px;
   left: -29px;
-  border: 2px solid #2eca7f;
+  border: 2px solid #3956CE;
   z-index: 2;
 }
 
@@ -1012,7 +1012,7 @@ body > footer .copyrights {
   content: '';
   display: inline-block;
   position: absolute;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   border-radius: 10px;
   width: 29px;
   height: 2px;
@@ -1032,7 +1032,7 @@ body > footer .copyrights {
   display: inline-block;
   font-size: 12px;
   line-height: 1.2em;
-  color: #2eca7f;
+  color: #3956CE;
   margin-bottom: 8px;
 }
 
@@ -1073,7 +1073,7 @@ body > footer .copyrights {
 }
 
 .skill-percentage {
-  background-color: #2eca7f;
+  background-color: #3956CE;
   height: 10px;
   padding: 0;
 }
@@ -1311,7 +1311,7 @@ body > footer .copyrights {
   padding: 2.2em 1.2em 1.5em;
   font-style: italic;
   border: 1px solid #e0e0e0;
-  border-top: 2px solid #2eca7f;
+  border-top: 2px solid #3956CE;
   width: 100%;
   position: relative;
   margin: 0;
@@ -1395,7 +1395,7 @@ body > footer .copyrights {
   content: '';
   height: 2px;
   margin-top: 0;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   position: absolute;
   left: 0;
   bottom: -3px;
@@ -1472,7 +1472,7 @@ body > footer .copyrights {
 
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
-  background-color: #2eca7f;
+  background-color: #3956CE;
   color: #fff;
 }
 
@@ -1516,13 +1516,13 @@ body > footer .copyrights {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   opacity: 0.8;
   z-index: 0;
 }
 
 .portfolio-grid figure:nth-child(even) a div:before {
-  background-color: #9e51f3;
+  background-color: #FFC02E;
 }
 
 .portfolio-grid figure a:hover div {
@@ -1642,7 +1642,7 @@ body > footer .copyrights {
 
 .blog-card .post-date span {
   display: block;
-  color: #2eca7f;
+  color: #3956CE;
   line-height: 1;
   font-size: 12px;
   margin: 0;
@@ -1834,7 +1834,7 @@ body > footer .copyrights {
 .testimonials.owl-carousel .owl-nav .owl-prev:hover,
 .testimonials.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #3956CE;
 }
 
 .testimonials.owl-carousel .owl-nav .owl-prev:before,
@@ -2077,7 +2077,7 @@ body > footer .copyrights {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #2eca7f;
+  background-color: #3956CE;
   border-color: transparent;
 }
 
@@ -2163,7 +2163,7 @@ body > footer .copyrights {
 
 blockquote {
   margin: 20px 0;
-  border-left: 3px solid #2eca7f;
+  border-left: 3px solid #3956CE;
   font-style: italic;
 }
 
@@ -2299,7 +2299,7 @@ blockquote footer, blockquote small, blockquote .small {
     top: 50px;
     z-index: 1001;
     overflow: auto;
-    background-color: #2eca7f;
+    background-color: #3956CE;
     -webkit-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     -moz-box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
     box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.2);
@@ -2334,7 +2334,7 @@ blockquote footer, blockquote small, blockquote .small {
     left: 0;
     right: 0;
     height: 50px;
-    background-color: #2eca7f;
+    background-color: #3956CE;
     -webkit-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
