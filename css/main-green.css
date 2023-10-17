@@ -434,7 +434,7 @@ body > footer .copyrights {
 
 .preloader-spinner:after {
   border-color: transparent;
-  border-top-color: #2eca7f;
+  border-top-color: #3956CE;
   -webkit-animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
   animation: rotation 0.82s infinite cubic-bezier(0.6,0.3,0.3,0.6);
 }
@@ -949,7 +949,7 @@ body > footer .copyrights {
 .info-list {
   display: inline-block;
   margin: 0px;
-  padding: 30px 0px 0px 80px;
+  padding: 40px 0px 0px 80px;
   list-style: none;
 }
 
